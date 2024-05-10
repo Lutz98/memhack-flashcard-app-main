@@ -36,3 +36,4 @@ MemHack offers various techniques, including:
 
 - Programming Language: Dart
 - Framework: Flutter
+- Data Handling: Utilizes temporary List<Map> data structures in Dart to manage user data and learning materials dynamically within the app.
